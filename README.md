@@ -1,2 +1,6 @@
 # TALN-Project-
-French politic tweets analysis
+## French political tweets analysis
+
+Using Jupyter Notebook and Neo4J graph database
+
+### Project made with classmates
